@@ -1,0 +1,3 @@
+${MY_REGISTRY}/ext.hub.docker.com/library/alpine:3.19.0
+${MY_REGISTRY}/ext.hub.docker.com/library/eclipse-temurin:17.0.9_9-jre-alpine
+${MY_REGISTRY}/ext.mcr.microsoft.com/playwright:v1.44.0-jammy

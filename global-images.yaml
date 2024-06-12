@@ -1,0 +1,2 @@
+variables:
+  ALPINE_IMAE: ${MY_REGISTRY}/ext.hub.docker.com/library/alpine:3.20.0
